@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/auto-store/static/css/main.0ab31d5b.chunk.css",
-    "main.js": "/auto-store/static/js/main.228c9161.chunk.js",
-    "main.js.map": "/auto-store/static/js/main.228c9161.chunk.js.map",
-    "runtime-main.js": "/auto-store/static/js/runtime-main.5a3d47ec.js",
-    "runtime-main.js.map": "/auto-store/static/js/runtime-main.5a3d47ec.js.map",
-    "static/js/2.b8dc9abb.chunk.js": "/auto-store/static/js/2.b8dc9abb.chunk.js",
-    "static/js/2.b8dc9abb.chunk.js.map": "/auto-store/static/js/2.b8dc9abb.chunk.js.map",
-    "index.html": "/auto-store/index.html",
-    "precache-manifest.76c1b07c8dfbae6f051e6afa16a604a0.js": "/auto-store/precache-manifest.76c1b07c8dfbae6f051e6afa16a604a0.js",
-    "service-worker.js": "/auto-store/service-worker.js",
-    "static/css/main.0ab31d5b.chunk.css.map": "/auto-store/static/css/main.0ab31d5b.chunk.css.map",
-    "static/js/2.b8dc9abb.chunk.js.LICENSE.txt": "/auto-store/static/js/2.b8dc9abb.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/auto-store/static/media/FuturaPTMedium.bd99f124.otf",
-    "static/media/index.module.scss": "/auto-store/static/media/square.b4ee3198.jpg",
-    "static/media/engine.jpg": "/auto-store/static/media/engine.7d851ecb.jpg"
+    "main.css": "/static/css/main.32218949.chunk.css",
+    "main.js": "/static/js/main.9eea6d28.chunk.js",
+    "main.js.map": "/static/js/main.9eea6d28.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.448c0d62.js",
+    "runtime-main.js.map": "/static/js/runtime-main.448c0d62.js.map",
+    "static/js/2.b8dc9abb.chunk.js": "/static/js/2.b8dc9abb.chunk.js",
+    "static/js/2.b8dc9abb.chunk.js.map": "/static/js/2.b8dc9abb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5ba97f911c75f11a25f770769970bd64.js": "/precache-manifest.5ba97f911c75f11a25f770769970bd64.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.32218949.chunk.css.map": "/static/css/main.32218949.chunk.css.map",
+    "static/js/2.b8dc9abb.chunk.js.LICENSE.txt": "/static/js/2.b8dc9abb.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/FuturaPTMedium.bd99f124.otf",
+    "static/media/index.module.scss": "/static/media/square.b4ee3198.jpg",
+    "static/media/engine.jpg": "/static/media/engine.7d851ecb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a3d47ec.js",
+    "static/js/runtime-main.448c0d62.js",
     "static/js/2.b8dc9abb.chunk.js",
-    "static/css/main.0ab31d5b.chunk.css",
-    "static/js/main.228c9161.chunk.js"
+    "static/css/main.32218949.chunk.css",
+    "static/js/main.9eea6d28.chunk.js"
   ]
 }
