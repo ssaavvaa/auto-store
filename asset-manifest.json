@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.32218949.chunk.css",
+    "main.css": "/static/css/main.55833a8f.chunk.css",
     "main.js": "/static/js/main.9eea6d28.chunk.js",
     "main.js.map": "/static/js/main.9eea6d28.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.448c0d62.js",
@@ -8,9 +8,9 @@
     "static/js/2.b8dc9abb.chunk.js": "/static/js/2.b8dc9abb.chunk.js",
     "static/js/2.b8dc9abb.chunk.js.map": "/static/js/2.b8dc9abb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5ba97f911c75f11a25f770769970bd64.js": "/precache-manifest.5ba97f911c75f11a25f770769970bd64.js",
+    "precache-manifest.f55f3f2d1416f471a8847b79a1818e35.js": "/precache-manifest.f55f3f2d1416f471a8847b79a1818e35.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.32218949.chunk.css.map": "/static/css/main.32218949.chunk.css.map",
+    "static/css/main.55833a8f.chunk.css.map": "/static/css/main.55833a8f.chunk.css.map",
     "static/js/2.b8dc9abb.chunk.js.LICENSE.txt": "/static/js/2.b8dc9abb.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/static/media/FuturaPTMedium.bd99f124.otf",
     "static/media/index.module.scss": "/static/media/square.b4ee3198.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.448c0d62.js",
     "static/js/2.b8dc9abb.chunk.js",
-    "static/css/main.32218949.chunk.css",
+    "static/css/main.55833a8f.chunk.css",
     "static/js/main.9eea6d28.chunk.js"
   ]
 }
