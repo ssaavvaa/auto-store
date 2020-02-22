@@ -1,26 +1,34 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import './styles/app.scss';
+import MainPage from './pages/main_page';
+import CatalogAllTypes from './pages/catalog';
+import CatalogTypes from './pages/catalog_types';
+import CatalogTypeMarks from './pages/catalog_types_marks';
+import NotFound from './pages/404';
+import Header from './components/header';
+import Footer from './components/footer';
 
-function App() {
+export default () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Header />
+      <Switch>
+        <Route exact path="/" component={MainPage} />
+        <Route exact path="/catalog" component={CatalogAllTypes} />
+        <Route
+          exact
+          path="/catalog/:type"
+          render={props => <CatalogTypes {...props} />}
+        />
+        <Route
+          exact
+          path="/catalog/:type/:mark"
+          render={props => <CatalogTypeMarks {...props} />}
+        />
+        <Route component={NotFound} />
+      </Switch>
+      <Footer />
+    </Router>
   );
-}
-
-export default App;
+};

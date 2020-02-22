@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "Andoria",
+      "url": "ANDORIA_ENGINE"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "Andoria",
+    "short_name": "ANDORIA_ENGINE",
+    "description": "Andoria-Mot Sp. z o.o. (Польша, г.Андрюхов)",
+    "url": "http://www.andoria-mot.com.pl/",
+    "SKD": false,
+    "archival": false,
+    "engine": true,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/162.png"
+  },
+  "models": [
+    {
+      "short_name": 15367,
+      "name": "ADCR",
+      "name_with_mark": "Andoria ADCR",
+      "modification": "ADCR 0501 (Euro 4)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15367.jpg",
+      "relevance": "2007-06-01T00:00:00.000Z",
+      "index": 25
+    },
+    {
+      "short_name": 15366,
+      "name": "4CT90",
+      "name_with_mark": "Andoria 4CT90",
+      "modification": "4CT90-1BE A1204 (Euro 2); 4CTi90-1BE6 A1205, 4CTi90-1BE6 A1206 (Euro 3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15366.jpg",
+      "relevance": "2003-09-01T00:00:00.000Z",
+      "index": 27
+    }
+  ]
+}

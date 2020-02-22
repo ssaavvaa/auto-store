@@ -1,0 +1,59 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "ЗМЗ",
+      "url": "ZMZ_ENGINE"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "ЗМЗ",
+    "short_name": "ZMZ_ENGINE",
+    "description": "Заволжский моторный завод (Российская Федерация, г.Заволжье)",
+    "url": "http://www.zmz.ru/",
+    "SKD": false,
+    "archival": false,
+    "engine": true,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/51.png"
+  },
+  "models": [
+    {
+      "short_name": 15500,
+      "name": "406",
+      "name_with_mark": "ЗМЗ 406",
+      "modification": "4062.10, 4063.10 (Euro-0), 40522.10, 409.10 (Euro-2), 40524.10, 40525.10, 40904.10 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15500.jpg",
+      "relevance": "2009-03-01T00:00:00.000Z",
+      "index": 2020
+    },
+    {
+      "short_name": 15501,
+      "name": "514",
+      "name_with_mark": "ЗМЗ 514",
+      "modification": "514.10, 5143.10-41, 5143.10-50 (Euro-2), 5143.10-80 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15501.jpg",
+      "relevance": "2009-03-01T00:00:00.000Z",
+      "index": 2023
+    },
+    {
+      "short_name": 15502,
+      "name": "511",
+      "name_with_mark": "ЗМЗ 511",
+      "modification": "511.10, 513.10, 5233.10, 5234.10 (Euro-0), 5231.10, 52342.10 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15502.jpg",
+      "relevance": "2009-03-01T00:00:00.000Z",
+      "index": 2024
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "ВАЗ",
+      "url": "VAZ"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "ВАЗ",
+    "short_name": "VAZ",
+    "description": "Волжский автомобильный завод (Российская Федерация, г.Тольятти)",
+    "url": "http://www.vaz.ru/",
+    "SKD": false,
+    "archival": false,
+    "engine": false,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/40.png"
+  },
+  "models": [
+    {
+      "short_name": 58960,
+      "name": "Vesta",
+      "name_with_mark": "ВАЗ Vesta",
+      "modification": "2180 \"Vesta\"",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58960.jpg",
+      "relevance": "2015-01-01T00:00:00.000Z",
+      "index": 1639
+    },
+    {
+      "short_name": 58961,
+      "name": "X-Ray",
+      "name_with_mark": "ВАЗ X-Ray",
+      "modification": "Lada XRay",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58961.jpg",
+      "relevance": "2015-01-01T00:00:00.000Z",
+      "index": 1640
+    },
+    {
+      "short_name": 58914,
+      "name": "2170",
+      "name_with_mark": "ВАЗ 2170",
+      "modification": "21702-30, 21703-31, 21703-33, 21705-31, 21705-33, 21705-34 \"Priora FL\" (седан)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58914.jpg",
+      "relevance": "2014-01-01T00:00:00.000Z",
+      "index": 1642
+    },
+    {
+      "short_name": 58915,
+      "name": "2171",
+      "name_with_mark": "ВАЗ 2171",
+      "modification": "21713-31, 21713-33, 21715-31, 21715-33, 21715-34 \"Priora FL\" (универсал)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58915.jpg",
+      "relevance": "2014-01-01T00:00:00.000Z",
+      "index": 1642
+    },
+    {
+      "short_name": 58916,
+      "name": "2172",
+      "name_with_mark": "ВАЗ 2172",
+      "modification": "21722-30, 21723-31, 21723-33, 21725-31, 21725-33, 21725-34 \"Priora FL\" (хэтчбек)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58916.jpg",
+      "relevance": "2014-01-01T00:00:00.000Z",
+      "index": 1642
+    },
+    {
+      "short_name": 58962,
+      "name": "2190",
+      "name_with_mark": "ВАЗ 2190",
+      "modification": "21901-41, 21906-40 \"Granta\"",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58962.jpg",
+      "relevance": "2014-01-01T00:00:00.000Z",
+      "index": 1643
+    },
+    {
+      "short_name": 58963,
+      "name": "2191",
+      "name_with_mark": "ВАЗ 2191",
+      "modification": "21911-40, 21911-41, 21912-42, 21917-41, 21917-42 \"Granta\"",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58963.jpg",
+      "relevance": "2014-01-01T00:00:00.000Z",
+      "index": 1643
+    },
+    {
+      "short_name": 54248,
+      "name": "2113",
+      "name_with_mark": "ВАЗ 2113",
+      "modification": "21134-24, 21134-26, 21134-34, 21134-36",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54248.jpg",
+      "relevance": "2011-06-01T00:00:00.000Z",
+      "index": 1646
+    },
+    {
+      "short_name": 54249,
+      "name": "2114",
+      "name_with_mark": "ВАЗ 2114",
+      "modification": "21144-24, 21144-26, 21144-34, 21144-36",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54249.jpg",
+      "relevance": "2011-06-01T00:00:00.000Z",
+      "index": 1646
+    },
+    {
+      "short_name": 54250,
+      "name": "2115",
+      "name_with_mark": "ВАЗ 2115",
+      "modification": "21154-24, 21154-26, 21154-34, 21154-36",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54250.jpg",
+      "relevance": "2011-06-01T00:00:00.000Z",
+      "index": 1646
+    },
+    {
+      "short_name": 285,
+      "name": "2109",
+      "name_with_mark": "ВАЗ 2109",
+      "modification": "2109, 21091, 21093, 21093-01, 21093-02, 21093-05, 21096, 21097, 21098, 21098-01 (карб.), 21093-20, 21093-21, 21093-22, 21093-23, 21093-24, 21093-25, 21098-22 (впрыск)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00285.jpg",
+      "relevance": "2002-09-01T00:00:00.000Z",
+      "index": 1647
+    },
+    {
+      "short_name": 286,
+      "name": "21099",
+      "name_with_mark": "ВАЗ 21099",
+      "modification": "21099, 21099-01, 21099-02, 21099-04, 210996, 210996-01 (карб.), 21099-20, 21099-21, 21099-22, 21099-23, 21099-24, 210996-22 (впрыск)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00286.jpg",
+      "relevance": "2002-09-01T00:00:00.000Z",
+      "index": 1647
+    },
+    {
+      "short_name": 287,
+      "name": "2108",
+      "name_with_mark": "ВАЗ 2108",
+      "modification": "2108 (до 01.2000), 21081 (до 05.1997), 21083, 21083-01, 21083-02 (до 09.2000), 21083-03 (до 2000), 21083-20 (до 2000), 21083-21 (до 09.2000), 21083-22 (до 2000), 21083-24 (до 03.2000), 21083-24 (до 2002), 21086, 21087, 21088, 21088-01, 21088-22 (до 1999)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00287.jpg",
+      "relevance": "2002-09-01T00:00:00.000Z",
+      "index": 1651
+    },
+    {
+      "short_name": 58911,
+      "name": "2170",
+      "name_with_mark": "ВАЗ 2170",
+      "modification": "21701-00, 21702-00, 21702-20, 21703-01, 21703-02, 21703-03, 21703-21, 21703-23 \"Priora\" (седан)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58911.jpg",
+      "relevance": "2013-01-01T00:00:00.000Z",
+      "index": 1653
+    },
+    {
+      "short_name": 58912,
+      "name": "2171",
+      "name_with_mark": "ВАЗ 2171",
+      "modification": "21713-01, 21713-02, 21713-03, 21713-21, 21713-23 \"Priora\" (универсал)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58912.jpg",
+      "relevance": "2013-01-01T00:00:00.000Z",
+      "index": 1653
+    },
+    {
+      "short_name": 58913,
+      "name": "2172",
+      "name_with_mark": "ВАЗ 2172",
+      "modification": "21721-00, 21722-00, 21722-20, 21723-01, 21723-02, 21723-03, 21723-21, 21723-23 \"Priora\" (хэтчбек)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58913.jpg",
+      "relevance": "2013-01-01T00:00:00.000Z",
+      "index": 1653
+    },
+    {
+      "short_name": 54246,
+      "name": "2192",
+      "name_with_mark": "ВАЗ 2192",
+      "modification": "21921-40, 21921-41, 21922-41, 21922-42, 21925-42, 21927-42",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54246.jpg",
+      "relevance": "2013-03-01T00:00:00.000Z",
+      "index": 1659
+    },
+    {
+      "short_name": 54247,
+      "name": "2194",
+      "name_with_mark": "ВАЗ 2194",
+      "modification": "21941-40, 21941-41, 21942-42, 21945-42, 21947-42",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54247.jpg",
+      "relevance": "2013-03-01T00:00:00.000Z",
+      "index": 1659
+    },
+    {
+      "short_name": 58905,
+      "name": "2107",
+      "name_with_mark": "ВАЗ 2107",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58905.jpg",
+      "relevance": "2010-10-01T00:00:00.000Z",
+      "index": 1660
+    },
+    {
+      "short_name": 58909,
+      "name": "2190",
+      "name_with_mark": "ВАЗ 2190",
+      "modification": "21901-41, 21901-51, 21902-41, 21902-42, 21905-41, 21905-42, 21907-42 - \"Granta\"",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58909.jpg",
+      "relevance": "2013-08-01T00:00:00.000Z",
+      "index": 1662
+    },
+    {
+      "short_name": 59073,
+      "name": "21214",
+      "name_with_mark": "ВАЗ 21214",
+      "modification": "21214-40, 21214-42, 21214-46, 21214-47 (Urban), 21214-50, 21214-52, 21214-60 (Urban)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/59073.jpg",
+      "relevance": "2015-10-01T00:00:00.000Z",
+      "index": 1663
+    },
+    {
+      "short_name": 58990,
+      "name": "21214",
+      "name_with_mark": "ВАЗ 21214",
+      "modification": "21214-20, 21214-30, 21214-40, 21214-50",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58990.jpg",
+      "relevance": "2013-02-01T00:00:00.000Z",
+      "index": 1664
+    },
+    {
+      "short_name": 58991,
+      "name": "2131",
+      "name_with_mark": "ВАЗ 2131",
+      "modification": "2131-30, 2131-40, 2131-41",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58991.jpg",
+      "relevance": "2013-02-01T00:00:00.000Z",
+      "index": 1664
+    },
+    {
+      "short_name": 36402,
+      "name": "1117",
+      "name_with_mark": "ВАЗ 1117",
+      "modification": "11173-30, 11173-31, 11173-33, 11173-40, 11173-41, 11173-43, 11174-30, 11174-33, 11174-40, 11174-43, 11174-50, 11174-53 - \"Калина\" (универсал)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/36402.jpg",
+      "relevance": "2011-06-01T00:00:00.000Z",
+      "index": 1665
+    },
+    {
+      "short_name": 15462,
+      "name": "21123",
+      "name_with_mark": "ВАЗ 21123",
+      "modification": "21123 (купе)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15462.jpg",
+      "relevance": "2007-05-01T00:00:00.000Z",
+      "index": 1668
+    },
+    {
+      "short_name": 58906,
+      "name": "2110",
+      "name_with_mark": "ВАЗ 2110",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58906.jpg",
+      "relevance": "2009-05-01T00:00:00.000Z",
+      "index": 1671
+    },
+    {
+      "short_name": 58907,
+      "name": "2111",
+      "name_with_mark": "ВАЗ 2111",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58907.jpg",
+      "relevance": "2009-05-01T00:00:00.000Z",
+      "index": 1671
+    },
+    {
+      "short_name": 58908,
+      "name": "2112",
+      "name_with_mark": "ВАЗ 2112",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58908.jpg",
+      "relevance": "2009-05-01T00:00:00.000Z",
+      "index": 1671
+    },
+    {
+      "short_name": 2,
+      "name": "2101",
+      "name_with_mark": "ВАЗ 2101",
+      "modification": "21011, 21012, 21013, 21014",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00002.jpg",
+      "relevance": "1982-04-01T00:00:00.000Z",
+      "index": 1673
+    },
+    {
+      "short_name": 3,
+      "name": "2102",
+      "name_with_mark": "ВАЗ 2102",
+      "modification": "21021-01, 21021-02, 21022, 21023, 21024, 21026",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00003.jpg",
+      "relevance": "1982-04-01T00:00:00.000Z",
+      "index": 1673
+    },
+    {
+      "short_name": 288,
+      "name": "1111",
+      "name_with_mark": "ВАЗ 1111",
+      "modification": "1111-03, 11113",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00288.jpg",
+      "relevance": "2000-06-01T00:00:00.000Z",
+      "index": 1678
+    },
+    {
+      "short_name": 58910,
+      "name": "219059",
+      "name_with_mark": "ВАЗ 219059",
+      "modification": "219059 - \"Granta Sport\"",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58910.jpg",
+      "relevance": "2013-05-01T00:00:00.000Z",
+      "index": 1679
+    },
+    {
+      "short_name": 289,
+      "name": "2105",
+      "name_with_mark": "ВАЗ 2105",
+      "modification": "21051, 21053",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00289.jpg",
+      "relevance": "2002-01-01T00:00:00.000Z",
+      "index": 1681
+    },
+    {
+      "short_name": 171,
+      "name": "2104",
+      "name_with_mark": "ВАЗ 2104",
+      "modification": "21040, 21043, 21044, 21045, 21046, 21047",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00171.jpg",
+      "relevance": "1992-09-01T00:00:00.000Z",
+      "index": 1684
+    },
+    {
+      "short_name": 36406,
+      "name": "2113",
+      "name_with_mark": "ВАЗ 2113",
+      "modification": "21134-20, 21134-22, 21134-30, 21134-32",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/36406.jpg",
+      "relevance": "2010-03-01T00:00:00.000Z",
+      "index": 1685
+    },
+    {
+      "short_name": 54305,
+      "name": "2114",
+      "name_with_mark": "ВАЗ 2114",
+      "modification": "21144-20, 21144-22, 21144-30, 21144-32",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54305.jpg",
+      "relevance": "2010-03-01T00:00:00.000Z",
+      "index": 1685
+    },
+    {
+      "short_name": 54306,
+      "name": "2115",
+      "name_with_mark": "ВАЗ 2115",
+      "modification": "21154-20, 21154-22, 21154-30, 21154-32",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54306.jpg",
+      "relevance": "2010-03-01T00:00:00.000Z",
+      "index": 1685
+    },
+    {
+      "short_name": 4,
+      "name": "2103",
+      "name_with_mark": "ВАЗ 2103",
+      "modification": "21032, 21033, 21035, 21036",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00004.jpg",
+      "relevance": "1987-01-01T00:00:00.000Z",
+      "index": 1687
+    },
+    {
+      "short_name": 257,
+      "name": "2120",
+      "name_with_mark": "ВАЗ 2120",
+      "modification": "2120 \"Надежда\"",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00257.jpg",
+      "relevance": "2003-01-01T00:00:00.000Z",
+      "index": 1688
+    },
+    {
+      "short_name": 58917,
+      "name": "1922",
+      "name_with_mark": "ВАЗ 1922",
+      "modification": "1922 \"Бронто\"",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/58917.jpg",
+      "index": 1696
+    },
+    {
+      "short_name": 37530,
+      "name": "Largus",
+      "name_with_mark": "ВАЗ Largus",
+      "modification": "KS015-41 (5-местный универсал)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37530.jpg",
+      "relevance": "2012-08-01T00:00:00.000Z",
+      "index": 1697
+    },
+    {
+      "short_name": 37531,
+      "name": "Largus",
+      "name_with_mark": "ВАЗ Largus",
+      "modification": "KSOY5-42 (5-местный универсал)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37531.jpg",
+      "relevance": "2012-08-01T00:00:00.000Z",
+      "index": 1697
+    },
+    {
+      "short_name": 37532,
+      "name": "Largus",
+      "name_with_mark": "ВАЗ Largus",
+      "modification": "RS015-41 (7-местный универсал)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37532.jpg",
+      "relevance": "2012-08-01T00:00:00.000Z",
+      "index": 1697
+    },
+    {
+      "short_name": 37533,
+      "name": "Largus",
+      "name_with_mark": "ВАЗ Largus",
+      "modification": "RSOY5-42 (7-местный универсал)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37533.jpg",
+      "relevance": "2012-08-01T00:00:00.000Z",
+      "index": 1697
+    },
+    {
+      "short_name": 37534,
+      "name": "Largus",
+      "name_with_mark": "ВАЗ Largus",
+      "modification": "FS015-40 (5-дверный 2-местный фургон)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37534.jpg",
+      "relevance": "2012-08-01T00:00:00.000Z",
+      "index": 1697
+    },
+    {
+      "short_name": 37535,
+      "name": "Largus",
+      "name_with_mark": "ВАЗ Largus",
+      "modification": "FS015-41 (3-дверный 2-местный фургон)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37535.jpg",
+      "relevance": "2012-08-01T00:00:00.000Z",
+      "index": 1697
+    },
+    {
+      "short_name": 36404,
+      "name": "1118",
+      "name_with_mark": "ВАЗ 1118",
+      "modification": "11183-30, 11183-31, 11183-33, 11183-40, 11183-41, 11183-43, 11184-30, 11184-33, 11184-40, 11184-43 - \"Калина\" (седан)\n",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/36404.jpg",
+      "relevance": "2011-05-01T00:00:00.000Z",
+      "index": 1698
+    },
+    {
+      "short_name": 36405,
+      "name": "1119",
+      "name_with_mark": "ВАЗ 1119",
+      "modification": "11193-30, 11193-31, 11193-33, 11193-40, 11193-41, 11193-43, 11194-30, 11194-33, 11194-40, 11194-43, 11194-50, 11194-53 - \"Калина\" (хэтчбек)\n",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/36405.jpg",
+      "relevance": "2011-09-01T00:00:00.000Z",
+      "index": 1699
+    },
+    {
+      "short_name": 59206,
+      "name": "2123",
+      "name_with_mark": "ВАЗ 2123",
+      "modification": "2123 \"Шевроле-Нива\"",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/59206.jpg",
+      "relevance": "2017-12-05T00:00:00.000Z",
+      "index": 1700
+    },
+    {
+      "short_name": 35619,
+      "name": "1119 Sport",
+      "name_with_mark": "ВАЗ 1119 Sport",
+      "modification": "11194-33, 11196-33 - \"Калина\" (хэтчбек)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/35619.jpg",
+      "relevance": "2008-08-01T00:00:00.000Z",
+      "index": 1701
+    },
+    {
+      "short_name": 290,
+      "name": "2106",
+      "name_with_mark": "ВАЗ 2106",
+      "modification": "21061, 21062, 21063, 21064, 21065-01, 21066",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00290.jpg",
+      "relevance": "2002-01-01T00:00:00.000Z",
+      "index": 1705
+    },
+    {
+      "short_name": 35640,
+      "name": "21728",
+      "name_with_mark": "ВАЗ 21728",
+      "modification": "21728 \"Priora\" (купе)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/35640.jpg",
+      "relevance": "2009-12-01T00:00:00.000Z",
+      "index": 1760
+    }
+  ]
+}

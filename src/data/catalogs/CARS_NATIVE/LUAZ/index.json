@@ -1,0 +1,39 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "ЛуАЗ",
+      "url": "LUAZ"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "ЛуАЗ",
+    "short_name": "LUAZ",
+    "description": "Луцкий автомобильный завод (Украина, г.Луцк)",
+    "url": "http://www.luaz.com/",
+    "SKD": false,
+    "archival": false,
+    "engine": false,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/111.png"
+  },
+  "models": [
+    {
+      "short_name": 63,
+      "name": "969",
+      "name_with_mark": "ЛуАЗ 969",
+      "modification": "969А, 969М",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00063.jpg",
+      "relevance": "1992-01-01T00:00:00.000Z",
+      "index": 2358
+    }
+  ]
+}

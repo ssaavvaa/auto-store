@@ -1,0 +1,89 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "ИЖ",
+      "url": "IZH"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "ИЖ",
+    "short_name": "IZH",
+    "description": "Ижевский автомобильный завод (Российская Федерация, г.Ижевск)",
+    "url": "http://www.izh-auto.ru/",
+    "SKD": false,
+    "archival": false,
+    "engine": false,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/38.png"
+  },
+  "models": [
+    {
+      "short_name": 292,
+      "name": "2126",
+      "name_with_mark": "ИЖ 2126",
+      "modification": "2126 \"Ода\" с двигателями УЗАМ, ВАЗ-2106",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00292.jpg",
+      "relevance": "2004-01-01T00:00:00.000Z",
+      "index": 2033
+    },
+    {
+      "short_name": 322,
+      "name": "2717",
+      "name_with_mark": "ИЖ 2717",
+      "modification": "2717, 27171 с двигателями УЗАМ-331, ВАЗ-2106",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00322.jpg",
+      "relevance": "2004-06-01T00:00:00.000Z",
+      "index": 2038
+    },
+    {
+      "short_name": 53,
+      "name": "2715",
+      "name_with_mark": "ИЖ 2715",
+      "modification": "Москвич-142ИЭ, 21251, 2715-01, 27151-01, 27156",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00053.jpg",
+      "relevance": "1999-01-01T00:00:00.000Z",
+      "index": 2044
+    },
+    {
+      "short_name": 50,
+      "name": "412",
+      "name_with_mark": "ИЖ 412",
+      "modification": "412П",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00050.jpg",
+      "relevance": "1995-01-01T00:00:00.000Z",
+      "index": 2045
+    },
+    {
+      "short_name": 51,
+      "name": "427",
+      "name_with_mark": "ИЖ 427",
+      "modification": "427П",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00051.jpg",
+      "relevance": "1995-01-01T00:00:00.000Z",
+      "index": 2045
+    },
+    {
+      "short_name": 52,
+      "name": "434",
+      "name_with_mark": "ИЖ 434",
+      "modification": "434П",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00052.jpg",
+      "relevance": "1995-01-01T00:00:00.000Z",
+      "index": 2045
+    }
+  ]
+}

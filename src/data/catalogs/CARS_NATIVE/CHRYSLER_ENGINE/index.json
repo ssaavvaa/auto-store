@@ -1,0 +1,38 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "Chrysler",
+      "url": "CHRYSLER_ENGINE"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "Chrysler",
+    "short_name": "CHRYSLER_ENGINE",
+    "description": "Chrysler Group LLC (США, г.Оберн-Хиллс)",
+    "url": "http://www.chrysler.com/",
+    "SKD": false,
+    "archival": false,
+    "engine": true,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/4.png"
+  },
+  "models": [
+    {
+      "short_name": 54386,
+      "name": "DaimlerChrysler 2.4L DOHC",
+      "name_with_mark": "Chrysler DaimlerChrysler 2.4L DOHC",
+      "modification": "DaimlerChrysler 2.4L DOHC - в варианте для установки на ГАЗ",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54386.jpg",
+      "index": 130
+    }
+  ]
+}

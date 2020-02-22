@@ -1,0 +1,43 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+import { uuid } from 'uuidv4';
+import { Link } from 'react-router-dom';
+import css from './index.module.scss';
+
+const CatalogMarks = ({
+  match: {
+    params: { type, mark }
+  }
+}) => {
+  const marks = require(`../../data/catalogs/${type.toUpperCase()}/${mark.toUpperCase()}`);
+
+  return (
+    <div className={css.wrapper}>
+      <h1>CATALOG | {type}</h1>
+      {marks && (
+        <ul>
+          {marks.models.map(({ name, name_with_mark, image }) => (
+            <li key={uuid()}>
+              <Link to="/">
+                <img alt={name} src={image} />
+                <p>{name_with_mark || name}</p>
+              </Link>
+            </li>
+          ))}
+        </ul>
+      )}
+      {!marks && <p>NO!!!</p>}
+    </div>
+  );
+};
+
+CatalogMarks.propTypes = {
+  match: PropTypes.shape({
+    params: PropTypes.shape({
+      type: PropTypes.string.isRequired,
+      mark: PropTypes.string.isRequired
+    })
+  })
+};
+
+export default CatalogMarks;

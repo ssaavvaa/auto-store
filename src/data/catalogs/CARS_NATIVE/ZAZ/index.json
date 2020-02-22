@@ -1,0 +1,97 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "ЗАЗ",
+      "url": "ZAZ"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "ЗАЗ",
+    "short_name": "ZAZ",
+    "description": "Запорожский автомобильный завод (Украина, г.Запорожье)",
+    "url": "http://zaz.ua/",
+    "SKD": false,
+    "archival": false,
+    "engine": false,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/79.png"
+  },
+  "models": [
+    {
+      "short_name": 59389,
+      "name": "965",
+      "name_with_mark": "ЗАЗ 965",
+      "modification": "965, 965Б",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/59389.jpg",
+      "index": 1943
+    },
+    {
+      "short_name": 59840,
+      "name": "966",
+      "name_with_mark": "ЗАЗ 966",
+      "modification": "966, 966В",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/59840.jpg",
+      "relevance": "1972-01-01T00:00:00.000Z",
+      "index": 1944
+    },
+    {
+      "short_name": 55,
+      "name": "968",
+      "name_with_mark": "ЗАЗ 968",
+      "modification": "968, 968А, 968М",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00055.jpg",
+      "relevance": "1998-01-01T00:00:00.000Z",
+      "index": 1945
+    },
+    {
+      "short_name": 331,
+      "name": "1102",
+      "name_with_mark": "ЗАЗ 1102",
+      "modification": "110206 \"Таврия Нова\", 110207, 110216, 110218, 110240, 110247, 110260, 110267",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00331.jpg",
+      "relevance": "2002-12-23T00:00:00.000Z",
+      "index": 1947
+    },
+    {
+      "short_name": 332,
+      "name": "1103",
+      "name_with_mark": "ЗАЗ 1103",
+      "modification": "1103 \"Славута\", 110307, 110308",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00332.jpg",
+      "relevance": "2002-12-23T00:00:00.000Z",
+      "index": 1947
+    },
+    {
+      "short_name": 333,
+      "name": "1105",
+      "name_with_mark": "ЗАЗ 1105",
+      "modification": "1105 \"Пикап\", 110550, 110557",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00333.jpg",
+      "relevance": "2002-12-23T00:00:00.000Z",
+      "index": 1947
+    },
+    {
+      "short_name": 15209,
+      "name": "Sens",
+      "name_with_mark": "ЗАЗ Sens",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15209.jpg",
+      "relevance": "2007-01-01T00:00:00.000Z",
+      "index": 1948
+    }
+  ]
+}

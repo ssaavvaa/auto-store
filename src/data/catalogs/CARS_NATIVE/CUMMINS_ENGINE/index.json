@@ -1,0 +1,38 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "Cummins",
+      "url": "CUMMINS_ENGINE"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "Cummins",
+    "short_name": "CUMMINS_ENGINE",
+    "description": "Cummins Inc. (США, г.Колумбус)",
+    "url": "http://www.cummins.com/",
+    "SKD": false,
+    "archival": false,
+    "engine": true,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/190.png"
+  },
+  "models": [
+    {
+      "short_name": 54718,
+      "name": "ISF 2.8",
+      "name_with_mark": "Cummins ISF 2.8",
+      "modification": "ISF 2.8 (для автомобилей ГАЗ 3302)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54718.jpg",
+      "index": 96
+    }
+  ]
+}

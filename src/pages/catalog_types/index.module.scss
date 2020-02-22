@@ -1,0 +1,24 @@
+@import '../../styles/variables.scss';
+
+.wrapper {
+  @include wrapper;
+  min-height: 100vh;
+  padding: 180px 15px;
+  background: url('./background.png');
+  filter: drop-shadow(0px 0px 7px rgba(0, 0, 0, 0.16));
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: content;
+  position: relative;
+  top: -70px;
+
+  h1 {
+    @include heading;
+    margin-bottom: 60px;
+    align-self: flex-start;
+  }
+
+  ul {
+    @include catalog;
+  }
+}

@@ -1,0 +1,56 @@
+@import '../../../styles/variables.scss';
+
+.wrapper {
+  @include wrapper;
+  padding: 0px 15px;
+  grid-template-columns: repeat(2, minmax(280px, 600px));
+  grid-gap: 40px;
+  padding-bottom: 100px;
+  grid-template-areas:
+    'header header'
+    'image text';
+
+  @include tablet {
+    padding: 80px 15px;
+    grid-template-columns: repeat(1, minmax(280px, 600px));
+    grid-template-areas:
+      'header'
+      'text'
+      'image';
+  }
+}
+
+.image {
+  grid-area: image;
+  max-width: 100%;
+}
+
+.text {
+  grid-area: text;
+  p {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.6);
+    margin-bottom: 20px;
+    &:nth-of-type(1) {
+      margin-top: 40px;
+      color: $mainFontColor;
+      font-size: 17px;
+      text-transform: uppercase;
+      margin-bottom: 40px;
+      @include tablet {
+        margin-top: 0px;
+      }
+    }
+  }
+}
+
+.header {
+  grid-area: header;
+
+  h2 {
+    @include heading;
+    span {
+      color: $fourthColor;
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "АЗЛК",
+      "url": "AZLK"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "АЗЛК",
+    "short_name": "AZLK",
+    "description": "Автомобильный завод им. Ленинского Комсомола (Российская Федерация, г.Москва)",
+    "url": "http://www.azlk.ru/",
+    "SKD": false,
+    "archival": false,
+    "engine": false,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/63.png"
+  },
+  "models": [
+    {
+      "short_name": 59386,
+      "name": "400",
+      "name_with_mark": "АЗЛК 400",
+      "modification": "400-420, 400-420А",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/59386.jpg",
+      "index": 1402
+    },
+    {
+      "short_name": 59387,
+      "name": "407",
+      "name_with_mark": "АЗЛК 407",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/59387.jpg",
+      "index": 1403
+    },
+    {
+      "short_name": 59388,
+      "name": "423Н",
+      "name_with_mark": "АЗЛК 423Н",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/59388.jpg",
+      "index": 1403
+    },
+    {
+      "short_name": 36,
+      "name": "2137",
+      "name_with_mark": "АЗЛК 2137",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00036.jpg",
+      "relevance": "1977-07-01T00:00:00.000Z",
+      "index": 1404
+    },
+    {
+      "short_name": 46,
+      "name": "2140",
+      "name_with_mark": "АЗЛК 2140",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00046.jpg",
+      "relevance": "1977-07-01T00:00:00.000Z",
+      "index": 1404
+    },
+    {
+      "short_name": 48,
+      "name": "2734",
+      "name_with_mark": "АЗЛК 2734",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00048.jpg",
+      "relevance": "1977-07-01T00:00:00.000Z",
+      "index": 1404
+    },
+    {
+      "short_name": 37,
+      "name": "2141",
+      "name_with_mark": "АЗЛК 2141",
+      "modification": "2141-01, 21412-01, 214122, 214123",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00037.jpg",
+      "relevance": "1998-02-01T00:00:00.000Z",
+      "index": 1405
+    },
+    {
+      "short_name": 130,
+      "name": "2335",
+      "name_with_mark": "АЗЛК 2335",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00130.jpg",
+      "relevance": "1998-02-01T00:00:00.000Z",
+      "index": 1405
+    }
+  ]
+}

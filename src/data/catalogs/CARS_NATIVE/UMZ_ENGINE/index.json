@@ -1,0 +1,139 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "УМЗ",
+      "url": "UMZ_ENGINE"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "УМЗ",
+    "short_name": "UMZ_ENGINE",
+    "description": "Ульяновский моторный завод (Российская Федерация, г.Ульяновск)",
+    "url": "http://www.umz-gaz.ru/",
+    "SKD": false,
+    "archival": false,
+    "engine": true,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/178.png"
+  },
+  "models": [
+    {
+      "short_name": 35872,
+      "name": "421",
+      "name_with_mark": "УМЗ 421",
+      "modification": "421-30",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/35872.jpg",
+      "relevance": "2002-04-01T00:00:00.000Z",
+      "index": 2946
+    },
+    {
+      "short_name": 35873,
+      "name": "4218",
+      "name_with_mark": "УМЗ 4218",
+      "modification": "4218-05, 4218-13, 4218-15",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/35873.jpg",
+      "relevance": "2002-04-01T00:00:00.000Z",
+      "index": 2946
+    },
+    {
+      "short_name": 15333,
+      "name": "4216",
+      "name_with_mark": "УМЗ 4216",
+      "modification": "4216, 4216-10  (Euro-2 / Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15333.jpg",
+      "relevance": "2006-01-01T00:00:00.000Z",
+      "index": 2948
+    },
+    {
+      "short_name": 54320,
+      "name": "4216",
+      "name_with_mark": "УМЗ 4216",
+      "modification": "4216-41, 4216-43, 4216-60, 4216-61, 4216-63, 4216-11 (Euro-3); 42167-11 (Euro-3) (газобензиновый)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54320.jpg",
+      "relevance": "2011-04-01T00:00:00.000Z",
+      "index": 2949
+    },
+    {
+      "short_name": 35870,
+      "name": "4213",
+      "name_with_mark": "УМЗ 4213",
+      "modification": "4213-40, 4213-50 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/35870.jpg",
+      "relevance": "2008-04-01T00:00:00.000Z",
+      "index": 2969
+    },
+    {
+      "short_name": 35871,
+      "name": "4215",
+      "name_with_mark": "УМЗ 4215",
+      "modification": "4215, 4215-10, 4215-11, 4215-15, 4215-30, 4215-31, 4215-35",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/35871.jpg",
+      "relevance": "2009-04-01T00:00:00.000Z",
+      "index": 2970
+    },
+    {
+      "short_name": 15590,
+      "name": "4216",
+      "name_with_mark": "УМЗ 4216",
+      "modification": "42164-00, 42164-10 (Euro-4), 4216-40, 4216-41, 4216-11 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15590.jpg",
+      "relevance": "2009-11-01T00:00:00.000Z",
+      "index": 2972
+    },
+    {
+      "short_name": 54321,
+      "name": "4216",
+      "name_with_mark": "УМЗ 4216",
+      "modification": "4216-70, 4216-50, 4216-71, 4216-51, 4216-72, 4216-52, 4216-73, 4216-53 (Euro-3); 42167-70 (Euro-3) (газобензиновый)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54321.jpg",
+      "relevance": "2011-04-01T00:00:00.000Z",
+      "index": 2973
+    },
+    {
+      "short_name": 54322,
+      "name": "42164",
+      "name_with_mark": "УМЗ 42164",
+      "modification": "42164-70, 42164-71, 42164-72, 42164-73, 42164-74, 421647-70, 421647-71, 421647-72 (Euro-4)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54322.jpg",
+      "relevance": "2012-04-20T00:00:00.000Z",
+      "index": 2974
+    },
+    {
+      "short_name": 15589,
+      "name": "4216",
+      "name_with_mark": "УМЗ 4216",
+      "modification": "4216, 4216-09, 4216-10, 4216-19, 4216-20, 4216-29, 4216-30, 4216-39, 4216-35, 4216-59, 42161, 42161-09 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15589.jpg",
+      "relevance": "2009-09-01T00:00:00.000Z",
+      "index": 2975
+    },
+    {
+      "short_name": 54323,
+      "name": "42167",
+      "name_with_mark": "УМЗ 42167",
+      "modification": "42167-00, 42167-11 (Euro-3) (газобензиновый)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54323.jpg",
+      "relevance": "2010-04-01T00:00:00.000Z",
+      "index": 2976
+    }
+  ]
+}

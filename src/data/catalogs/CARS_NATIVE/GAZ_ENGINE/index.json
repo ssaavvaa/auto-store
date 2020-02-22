@@ -1,0 +1,49 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "ГАЗ",
+      "url": "GAZ_ENGINE"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "ГАЗ",
+    "short_name": "GAZ_ENGINE",
+    "description": "Горьковский автомобильный завод (Российская Федерация, г.Нижний Новгород)",
+    "url": "http://www.gaz.ru/",
+    "SKD": false,
+    "archival": false,
+    "engine": true,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/37.png"
+  },
+  "models": [
+    {
+      "short_name": 15498,
+      "name": "560",
+      "name_with_mark": "ГАЗ 560",
+      "modification": "560 (Euro-0), 5601 (Euro-2), 5602 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15498.jpg",
+      "relevance": "2005-08-01T00:00:00.000Z",
+      "index": 1810
+    },
+    {
+      "short_name": 15499,
+      "name": "560",
+      "name_with_mark": "ГАЗ 560",
+      "modification": "5603 (Euro-4) (дополнение)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15499.jpg",
+      "relevance": "2007-12-01T00:00:00.000Z",
+      "index": 1811
+    }
+  ]
+}

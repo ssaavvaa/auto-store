@@ -1,0 +1,11 @@
+@import '../../styles/variables.scss';
+
+.footer {
+  background-color: rgb(27, 27, 27);
+  padding: 100px 15px;
+  color: white;
+  text-align: center;
+  h2 {
+    @include heading;
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "ЗИЛ",
+      "url": "ZIL"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "ЗИЛ",
+    "short_name": "ZIL",
+    "description": "Автомобильный завод им. Лихачева (Российская Федерация, г.Москва)",
+    "url": "http://www.amo-zil.ru/",
+    "SKD": false,
+    "archival": false,
+    "engine": false,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/39.png"
+  },
+  "models": [
+    {
+      "short_name": 59390,
+      "name": "101",
+      "name_with_mark": "ЗИЛ 101",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/59390.jpg",
+      "index": 2009
+    },
+    {
+      "short_name": 59391,
+      "name": "110",
+      "name_with_mark": "ЗИЛ 110",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/59391.jpg",
+      "index": 2010
+    }
+  ]
+}

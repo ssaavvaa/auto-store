@@ -1,0 +1,227 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "УАЗ",
+      "url": "UAZ"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "УАЗ",
+    "short_name": "UAZ",
+    "description": "Ульяновский автомобильный завод (Российская Федерация, г.Ульяновск)",
+    "url": "http://www.uaz.ru/",
+    "SKD": false,
+    "archival": false,
+    "engine": false,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/36.png"
+  },
+  "models": [
+    {
+      "short_name": 245,
+      "name": "2206",
+      "name_with_mark": "УАЗ 2206",
+      "modification": "22069",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00245.jpg",
+      "relevance": "2001-03-26T00:00:00.000Z",
+      "index": 2950
+    },
+    {
+      "short_name": 246,
+      "name": "3303",
+      "name_with_mark": "УАЗ 3303",
+      "modification": "33036, 33039",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00246.jpg",
+      "relevance": "2001-03-26T00:00:00.000Z",
+      "index": 2950
+    },
+    {
+      "short_name": 242,
+      "name": "3741",
+      "name_with_mark": "УАЗ 3741",
+      "modification": "37419",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00242.jpg",
+      "relevance": "2001-03-26T00:00:00.000Z",
+      "index": 2950
+    },
+    {
+      "short_name": 244,
+      "name": "3909",
+      "name_with_mark": "УАЗ 3909",
+      "modification": "39094, 39095, 39099",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00244.jpg",
+      "relevance": "2001-03-26T00:00:00.000Z",
+      "index": 2950
+    },
+    {
+      "short_name": 243,
+      "name": "3962",
+      "name_with_mark": "УАЗ 3962",
+      "modification": "39629",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00243.jpg",
+      "relevance": "2001-03-26T00:00:00.000Z",
+      "index": 2950
+    },
+    {
+      "short_name": 241,
+      "name": "31512",
+      "name_with_mark": "УАЗ 31512",
+      "modification": "31512, 31514, 31519",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00241.jpg",
+      "relevance": "2000-10-15T00:00:00.000Z",
+      "index": 2952
+    },
+    {
+      "short_name": 15326,
+      "name": "31519",
+      "name_with_mark": "УАЗ 31519",
+      "modification": "УАЗ \"Хантер\" (-31512-010, -31514-012, -31519-017, 315195-030, -315195-036, -315148-095, -315148-195, -315194-010)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15326.jpg",
+      "relevance": "2007-10-01T00:00:00.000Z",
+      "index": 2954
+    },
+    {
+      "short_name": 59615,
+      "name": "3151",
+      "name_with_mark": "УАЗ 3151",
+      "modification": "31519-095, 31519-195, 315195-023, 315195-123, 315143-095, 315143-195",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/59615.jpg",
+      "relevance": "2005-01-01T00:00:00.000Z",
+      "index": 2956
+    },
+    {
+      "short_name": 247,
+      "name": "3160",
+      "name_with_mark": "УАЗ 3160",
+      "modification": "31601, 31604, 31605",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00247.jpg",
+      "relevance": "2000-05-15T00:00:00.000Z",
+      "index": 2957
+    },
+    {
+      "short_name": 15325,
+      "name": "3163",
+      "name_with_mark": "УАЗ 3163",
+      "modification": "3163 \"Патриот\" (-3163-010, -3163-020, -3163-012, -3163-022, -3163-032)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15325.jpg",
+      "relevance": "2007-04-02T00:00:00.000Z",
+      "index": 2960
+    },
+    {
+      "short_name": 37692,
+      "name": "22069",
+      "name_with_mark": "УАЗ 22069",
+      "modification": "220694 (Euro-2), 220694 (Euro-3), 220695 (Euro-2), 220695 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37692.jpg",
+      "relevance": "2008-10-01T00:00:00.000Z",
+      "index": 2961
+    },
+    {
+      "short_name": 37694,
+      "name": "33036",
+      "name_with_mark": "УАЗ 33036",
+      "modification": "330364 (Euro-2), 330364 (Euro-3), 330365 (Euro-2), 330365 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37694.jpg",
+      "relevance": "2008-10-01T00:00:00.000Z",
+      "index": 2961
+    },
+    {
+      "short_name": 37693,
+      "name": "33039",
+      "name_with_mark": "УАЗ 33039",
+      "modification": "330394 (Euro-2), 330394 (Euro-3), 330395 (Euro-2), 330395 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37693.jpg",
+      "relevance": "2008-10-01T00:00:00.000Z",
+      "index": 2961
+    },
+    {
+      "short_name": 37688,
+      "name": "37419",
+      "name_with_mark": "УАЗ 37419",
+      "modification": "374194 (Euro-2), 374194 (Euro-3), 374195 (Euro-2), 374195 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37688.jpg",
+      "relevance": "2008-10-01T00:00:00.000Z",
+      "index": 2961
+    },
+    {
+      "short_name": 37695,
+      "name": "39094",
+      "name_with_mark": "УАЗ 39094",
+      "modification": "390944 (Euro-2), 390944 (Euro-3), 390945 (Euro-2), 390945 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37695.jpg",
+      "relevance": "2008-10-01T00:00:00.000Z",
+      "index": 2961
+    },
+    {
+      "short_name": 37691,
+      "name": "39099",
+      "name_with_mark": "УАЗ 39099",
+      "modification": "390994 (Euro-2), 390994 (Euro-3), 390995 (Euro-2), 390995 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37691.jpg",
+      "relevance": "2008-10-01T00:00:00.000Z",
+      "index": 2961
+    },
+    {
+      "short_name": 37690,
+      "name": "39625",
+      "name_with_mark": "УАЗ 39625",
+      "modification": "396254 (Euro-2), 396254 (Euro-3), 396255 (Euro-2), 396255 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37690.jpg",
+      "relevance": "2008-10-01T00:00:00.000Z",
+      "index": 2961
+    },
+    {
+      "short_name": 37689,
+      "name": "39629",
+      "name_with_mark": "УАЗ 39629",
+      "modification": "396294 (Euro-2), 396294 (Euro-3), 396295 (Euro-2), 396295 (Euro-3)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/37689.jpg",
+      "relevance": "2008-10-01T00:00:00.000Z",
+      "index": 2961
+    },
+    {
+      "short_name": 59614,
+      "name": "3151",
+      "name_with_mark": "УАЗ 3151",
+      "modification": "469Б, 31512, 3152, 39121",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/59614.jpg",
+      "index": 2962
+    },
+    {
+      "short_name": 59613,
+      "name": "КПП (Арзамас)",
+      "name_with_mark": "УАЗ КПП (Арзамас)",
+      "modification": "31606-1700010-01 \"Арзамас\"",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/59613.jpg",
+      "index": 2963
+    }
+  ]
+}

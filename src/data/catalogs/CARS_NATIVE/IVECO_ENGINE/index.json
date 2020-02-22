@@ -1,0 +1,39 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "Iveco",
+      "url": "IVECO_ENGINE"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "Iveco",
+    "short_name": "IVECO_ENGINE",
+    "description": "Industrial Vehicles Corporation (Италия, г.Турин)",
+    "url": "http://www.iveco.com/",
+    "SKD": false,
+    "archival": false,
+    "engine": true,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/13.png"
+  },
+  "models": [
+    {
+      "short_name": 54430,
+      "name": "F1AE0481B*C001",
+      "name_with_mark": "Iveco F1AE0481B*C001",
+      "modification": "для автомобилей УАЗ",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54430.jpg",
+      "relevance": "2008-01-01T00:00:00.000Z",
+      "index": 390
+    }
+  ]
+}

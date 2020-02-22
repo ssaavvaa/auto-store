@@ -1,0 +1,47 @@
+@import '../../../styles/variables.scss';
+
+.wrapper {
+  @include wrapper;
+  margin-bottom: 100px;
+  @include phone {
+    padding: 80px 15px;
+    margin: 0px;
+  }
+  header {
+    margin-bottom: 100px;
+    h2 {
+      @include heading;
+    }
+  }
+
+  ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: center;
+    align-items: flex-start;
+    justify-content: center;
+    grid-gap: 60px;
+    @include tablet {
+      grid-template-columns: minmax(200px, 250px) minmax(200px, 250px);
+    }
+    @include phone {
+      grid-template-columns: minmax(200px, 280px);
+    }
+    li {
+      text-align: center;
+      h3 {
+        font-size: 18px;
+        margin-bottom: 20px;
+      }
+      p {
+        font-size: 12px;
+      }
+      img {
+        margin-bottom: 20px;
+        padding: 30px;
+        border-radius: 100%;
+        border: 1px solid $secondFontColor;
+      }
+    }
+  }
+}

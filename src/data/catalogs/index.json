@@ -1,0 +1,3263 @@
+[
+  {
+    "_id": "5894b5d2c4bfb6f4b0c8fc19",
+    "className": "ru.autodealer.migration.main.entity.Type",
+    "index": 1,
+    "name": "Легковые (отечественные)",
+    "value": "CARS_NATIVE",
+    "image": "https://storage.yandexcloud.net/acat/main/types/1.png",
+    "marks": [
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/63.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "AZLK",
+        "name": "АЗЛК"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/40.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "VAZ",
+        "name": "ВАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/37.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "GAZ",
+        "name": "ГАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/79.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZAZ",
+        "name": "ЗАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/39.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZIL",
+        "name": "ЗИЛ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/38.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "IZH",
+        "name": "ИЖ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/111.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "LUAZ",
+        "name": "ЛуАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/36.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "UAZ",
+        "name": "УАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/162.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "ANDORIA_ENGINE",
+        "name": "Andoria"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/4.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "CHRYSLER_ENGINE",
+        "name": "Chrysler"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/190.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "CUMMINS_ENGINE",
+        "name": "Cummins"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/13.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "IVECO_ENGINE",
+        "name": "Iveco"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/37.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "GAZ_ENGINE",
+        "name": "ГАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/51.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "ZMZ_ENGINE",
+        "name": "ЗМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/178.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "UMZ_ENGINE",
+        "name": "УМЗ"
+      }
+    ]
+  },
+  {
+    "_id": "5894b5d2c4bfb6f4b0c8fc1e",
+    "className": "ru.autodealer.migration.main.entity.Type",
+    "index": 2,
+    "name": "Легковые (иномарки)",
+    "value": "CARS_FOREIGN",
+    "image": "https://storage.yandexcloud.net/acat/main/types/9.png",
+    "marks": [
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/245.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ABARTH",
+        "name": "Abarth"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/1.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ALFA_ROMEO",
+        "name": "Alfa Romeo"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/2.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "audi",
+        "name": "Audi"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/3.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "bmw",
+        "name": "BMW"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/92.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BYD",
+        "name": "BYD"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/Chery.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "chery",
+        "name": "Chery"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/60.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "chevrolet",
+        "name": "Chevrolet"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/Chrysler.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "chrysler",
+        "name": "Chrysler"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/5.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "citroen",
+        "name": "Citroen"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/257.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "dacia",
+        "name": "Dacia"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/6.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DAEWOO",
+        "name": "Daewoo"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/93.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DERWAYS",
+        "name": "Derways"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/Dodge.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "dodge",
+        "name": "Dodge"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/96.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DONGFENG",
+        "name": "DongFeng"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/61.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "FAW",
+        "name": "FAW"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/8.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "FIAT",
+        "name": "Fiat"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/9.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ford",
+        "name": "Ford"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/98.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "FOTON",
+        "name": "Foton"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/94.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "GEELY",
+        "name": "Geely"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/290.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "GREAT_WALL",
+        "name": "Great Wall"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/232.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "HAFEI",
+        "name": "Hafei"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/10.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "honda",
+        "name": "Honda"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/11.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "hyundai",
+        "name": "Hyundai"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/256.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "infiniti",
+        "name": "Infiniti"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/233.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "IRAN_KHODRO",
+        "name": "Iran Khodro"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/12.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "isuzu",
+        "name": "Isuzu"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/14.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "jaguar",
+        "name": "Jaguar"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/87.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "jeep",
+        "name": "Jeep"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/15.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "kia",
+        "name": "Kia"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/35.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "LANCIA",
+        "name": "Lancia"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/17.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "land-rover",
+        "name": "Land Rover"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/88.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "lexus",
+        "name": "Lexus"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/85.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "LIFAN",
+        "name": "Lifan"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/48.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MAHINDRA",
+        "name": "Mahindra"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/18.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "mazda",
+        "name": "Mazda"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/19.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "mercedes",
+        "name": "Mercedes Benz"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/75.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "mini",
+        "name": "Mini"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/mitsubishi.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "mitsubishi",
+        "name": "Mitsubishi"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/21.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "nissan",
+        "name": "Nissan"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/22.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "opel",
+        "name": "Opel"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/23.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "peugeot",
+        "name": "Peugeot"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/Plymouth.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "plymouth",
+        "name": "Plymouth"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/91.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "porsche",
+        "name": "Porsche"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/25.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "renault",
+        "name": "Renault"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/241.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "rolls-royce",
+        "name": "Rolls-Royce"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/27.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "saab",
+        "name": "Saab"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/28.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "seat",
+        "name": "Seat"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/29.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "skoda",
+        "name": "Skoda"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/smart.jpg",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "smart",
+        "name": "Smart"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/53.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ssangyong",
+        "name": "Ssang Yong"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/30.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "subaru",
+        "name": "Subaru"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/31.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "suzuki",
+        "name": "Suzuki"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/58.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TATA",
+        "name": "Tata"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/32.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "toyota",
+        "name": "Toyota"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/vauxhall.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "vauxhall",
+        "name": "Vauxhall"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/33.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "vw",
+        "name": "Volkswagen"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/34.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "volvo",
+        "name": "Volvo"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/6.png",
+        "engine": false,
+        "archival": false,
+        "SKD": true,
+        "value": "DAEWOO_SKD",
+        "name": "Daewoo"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/26.png",
+        "engine": false,
+        "archival": false,
+        "SKD": true,
+        "value": "ROVER_SKD",
+        "name": "Rover"
+      }
+    ]
+  },
+  {
+    "_id": "5894b5d2c4bfb6f4b0c8fc20",
+    "className": "ru.autodealer.migration.main.entity.Type",
+    "index": 3,
+    "name": "Грузовые (отечественные)",
+    "value": "TRUCKS_NATIVE",
+    "image": "https://storage.yandexcloud.net/acat/main/types/2.png",
+    "marks": [
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/203.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ALTAJ",
+        "name": "Алтай"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/125.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BELAZ",
+        "name": "БелАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/144.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BRYANSKIJ_ARSENAL",
+        "name": "Брянский арсенал"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/37.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "GAZ",
+        "name": "ГАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/39.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZIL",
+        "name": "ЗИЛ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/143.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KAZ",
+        "name": "КАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/45.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KAMAZ",
+        "name": "КамАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/81.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KRAZ",
+        "name": "КрАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/46.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MAZ",
+        "name": "МАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/128.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MZKT",
+        "name": "МЗКТ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/132.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MOAZ",
+        "name": "МоАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/165.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MTM",
+        "name": "МТМ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/110.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "NEFAZ",
+        "name": "НефАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/163.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SZAP",
+        "name": "СЗАП"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/216.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TMZ",
+        "name": "ТМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/211.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TONAR",
+        "name": "Тонар"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/49.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "URAL",
+        "name": "Урал"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/289.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CHZAP",
+        "name": "ЧМЗАП"
+      }
+    ]
+  },
+  {
+    "_id": "5894b5d2c4bfb6f4b0c8fc1f",
+    "className": "ru.autodealer.migration.main.entity.Type",
+    "index": 4,
+    "name": "Грузовые (иномарки)",
+    "value": "TRUCKS_FOREIGN",
+    "image": "https://storage.yandexcloud.net/acat/main/types/10.png",
+    "marks": [
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/102.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "AVIA",
+        "name": "Avia"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/62.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BAW",
+        "name": "BAW"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/106.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BEIFANG_BENCHI",
+        "name": "Beifang Benchi"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/101.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CAMC",
+        "name": "CAMC"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/99.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CATERPILLAR",
+        "name": "Caterpillar"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/103.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CNHTC_SINOTRUK",
+        "name": "CNHTC Sinotruk"
+      },
+      {
+        "name": "DAF",
+        "value": "daf",
+        "SKD": false,
+        "archival": false,
+        "engine": false,
+        "noindex": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/95.png",
+        "vin": false
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/96.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DONGFENG",
+        "name": "DongFeng"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/61.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "FAW",
+        "name": "FAW"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/98.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "FOTON",
+        "name": "Foton"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/11.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "hyundai",
+        "name": "Hyundai"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/12.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "isuzu",
+        "name": "Isuzu"
+      },
+      {
+        "name": "IVECO",
+        "value": "iveco",
+        "SKD": false,
+        "archival": false,
+        "engine": false,
+        "noindex": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/13.png",
+        "vin": true
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/248.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "JAC",
+        "name": "JAC"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/228.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "JMC",
+        "name": "JMC"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/15.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "kia",
+        "name": "Kia"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/108.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MADARA",
+        "name": "Madara"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/90.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "man",
+        "name": "Man"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/89.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SCANIA",
+        "name": "Scania"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/19.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "mercedes",
+        "name": "Mercedes Benz"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/21.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "nissan",
+        "name": "Nissan"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/25.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "RENAULT",
+        "name": "Renault"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/104.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SHAANXI",
+        "name": "Shaanxi"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/105.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SHAANXI_FAST_GEAR",
+        "name": "Shaanxi Fast Gear"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/58.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TATA",
+        "name": "Tata"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/97.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TATRA",
+        "name": "Tatra"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/235.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TEREX",
+        "name": "Terex"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/34.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "volvo-trucks",
+        "name": "Volvo"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/205.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZF",
+        "name": "ZF"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/25.png",
+        "engine": false,
+        "archival": false,
+        "SKD": true,
+        "value": "RENAULT_SKD",
+        "name": "Renault"
+      }
+    ]
+  },
+
+  {
+    "_id": "5894b5d2c4bfb6f4b0c8fc21",
+    "className": "ru.autodealer.migration.main.entity.Type",
+    "index": 6,
+    "name": "Спецтехника (отечественные)",
+    "value": "SPECIAL_TECH_NATIVE",
+    "image": "https://storage.yandexcloud.net/acat/main/types/7.png",
+    "marks": [
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/323.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "AZCM",
+        "name": "АЗСМ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/328.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ANITIM",
+        "name": "АНИТИМ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/299.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "AOMZ",
+        "name": "АОМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/300.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ATEK",
+        "name": "АТЕК"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/67.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ATZ",
+        "name": "АТЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/50.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "AVTOKRAN",
+        "name": "Автокран"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/252.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "AGRO",
+        "name": "Агро"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/313.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "AGROCENTER",
+        "name": "Агроцентр"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/112.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "AMKODOR",
+        "name": "Амкодор"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/271.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BZST",
+        "name": "БЗСТ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/272.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BZTM",
+        "name": "БЗТМ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/255.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BEHMZ",
+        "name": "БЭМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/125.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BELAZ",
+        "name": "БелАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/242.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BELOVEZH",
+        "name": "Беловеж"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/215.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BELOCERKOVMAZ",
+        "name": "БелоцерковМАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/130.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BOBRUJSKAGROMASH",
+        "name": "БобруйскАгроМаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/152.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BOBRUJSKSELMASH",
+        "name": "БобруйскСельМаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/281.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BOLSHAYA_ZEMLYA",
+        "name": "Большая Земля"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/301.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BOREX",
+        "name": "Борекс"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/144.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BRYANSKIJ_ARSENAL",
+        "name": "Брянский арсенал"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/329.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "VELES_AGRO",
+        "name": "Велес Агро"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/266.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "VZS",
+        "name": "ВЗС"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/151.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "VSM",
+        "name": "ВСМ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/69.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "VTZ",
+        "name": "ВТЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/146.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "VEHKS",
+        "name": "ВЭКС"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/64.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "VGTZ",
+        "name": "ВгТЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/37.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "GAZ",
+        "name": "ГАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/237.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "GAKZ",
+        "name": "ГАКЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/185.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "GAZPROM-KRAN",
+        "name": "Газпром-кран"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/267.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "GATCHINSELMASH",
+        "name": "Гатчинсельмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/167.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "GEOMASH",
+        "name": "Геомаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/183.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "GIDROMASH",
+        "name": "Гидромаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/131.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "GOMSELMASH",
+        "name": "Гомсельмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/274.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DZAK",
+        "name": "ДЗАК"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/156.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DKZ",
+        "name": "ДКЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/324.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DST-URAL",
+        "name": "ДСТ-УРАЛ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/304.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DEZ",
+        "name": "ДЭЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/220.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DONEHKS",
+        "name": "Донэкс"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/136.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DORMASH",
+        "name": "Дормаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/268.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DORELECTROMASH",
+        "name": "Дорэлектромаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/184.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ELAZ",
+        "name": "ЕлАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/120.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZZGT",
+        "name": "ЗЗГТ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/119.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZID",
+        "name": "ЗиД"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/121.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZIK",
+        "name": "ЗиК"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/275.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZLATMASH",
+        "name": "Златмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/113.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZLATEHKS",
+        "name": "Златэкс"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/154.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "IZHNEFTEMASH",
+        "name": "Ижнефтемаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/222.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "IZHORSKIE_ZAVODY",
+        "name": "Ижорские заводы"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/320.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KAZ",
+        "name": "КАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/129.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KZK",
+        "name": "КЗК"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/148.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KZKT",
+        "name": "КЗКТ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/141.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KMZ",
+        "name": "КМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/124.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KMZ_1_MAYA",
+        "name": "КМЗ 1 Мая"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/149.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KEHZ",
+        "name": "КЭЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/325.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KEMZ",
+        "name": "КЭМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/157.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KANASH",
+        "name": "Канаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/308.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KIROVEC_LANDTECHNICK",
+        "name": "Кировец-Ландтехник"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/134.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KLEVER",
+        "name": "Клевер"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/127.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KOVROVEC",
+        "name": "Ковровец"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/306.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KRANEKS",
+        "name": "Кранэкс"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/126.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KREDMASH",
+        "name": "Кредмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/158.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "LZA",
+        "name": "ЛЗА"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/70.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "LTZ",
+        "name": "ЛТЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/238.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "LIDAGROPROMMASH",
+        "name": "ЛидАгроПромМаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/164.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "LIDSELMASH",
+        "name": "ЛидСельМаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/46.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MAZ",
+        "name": "МАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/122.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MZKM",
+        "name": "МЗКМ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/107.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MMZ",
+        "name": "ММЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/246.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MRMZ",
+        "name": "МРМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/66.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MTZ",
+        "name": "МТЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/165.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MTM",
+        "name": "МТМ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/191.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MASHTEKHREMONT",
+        "name": "Маштехремонт"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/132.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MOAZ",
+        "name": "МоАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/311.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MOZMZ",
+        "name": "МозМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/250.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MOLDAGROTEKHNIKA",
+        "name": "МолдАгроТехника"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/194.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "NKMZ",
+        "name": "НКМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/312.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "NAVIGATOR",
+        "name": "Навигатор"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/110.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "NEFAZ",
+        "name": "НефАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/138.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "OTZ",
+        "name": "ОТЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/276.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "OMSKTRANSMASH",
+        "name": "Омсктрансмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/137.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "OREL-POGRUZCHIK",
+        "name": "Орел-Погрузчик"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/161.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "OSTA",
+        "name": "Оста"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/330.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "POSEVNAYA_COMPANIYA",
+        "name": "Посевная компания"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/65.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "PTZ",
+        "name": "ПТЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/277.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "PERVOMAJSKHIMMASH",
+        "name": "Первомайскхиммаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/207.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "PROMTRAKTOR",
+        "name": "Промтрактор"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/223.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "RMZ",
+        "name": "РМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/118.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "RASKAT",
+        "name": "Раскат"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/117.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ROSTSELMASH",
+        "name": "Ростсельмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/210.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SAZ",
+        "name": "САЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/243.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SALSKSELMASH",
+        "name": "Сальсксельмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/135.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SAREHKS",
+        "name": "Сарэкс"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/171.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SIBSELMASH",
+        "name": "Сибсельмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/170.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SINERGIYA",
+        "name": "Синергия"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/279.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SMOLTRA",
+        "name": "СмолТра"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/282.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SPECBURMASH",
+        "name": "СпецБурМаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/145.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "STROJDORMASH",
+        "name": "Стройдормаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/176.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "STROMNEFTEMASH",
+        "name": "Стромнефтемаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/114.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TVEHKS",
+        "name": "ТВЭКС"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/218.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TZA",
+        "name": "ТЗА"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/160.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TKZ",
+        "name": "ТКЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/270.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TMZV",
+        "name": "ТМЗВ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/319.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TTM",
+        "name": "ТТМ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/307.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TEKZ",
+        "name": "ТеКЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/305.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TECHNIKA_SERVICE",
+        "name": "Техника-сервис"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/179.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TORFMASH",
+        "name": "Торфмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/140.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "UVZ",
+        "name": "УВЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/166.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "UMZ_-2",
+        "name": "УМЗ №2"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/172.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "UMPO",
+        "name": "УМПО"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/253.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "UNISIBMASH",
+        "name": "Унисибмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/49.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "URAL",
+        "name": "Урал"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/197.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "URALMASH",
+        "name": "Уралмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/68.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "HZTSSH",
+        "name": "ХЗТСШ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/73.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "HTZ",
+        "name": "ХТЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/224.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CHZTS",
+        "name": "ЧЗТС"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/231.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CHMZ",
+        "name": "ЧМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/123.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CHSDM",
+        "name": "ЧСДМ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/72.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CHTZ",
+        "name": "ЧТЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/283.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CHELEKS",
+        "name": "ЧелЭкс"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/155.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CHERVONA_ZIRKA",
+        "name": "Червона зирка"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/251.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SHAAZ",
+        "name": "ШААЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/219.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "EHKSKO",
+        "name": "Экско"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/221.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "EHKSMASH",
+        "name": "Эксмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/74.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "YUMZ",
+        "name": "ЮМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/150.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "YURMASH",
+        "name": "ЮрМаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/205.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZF",
+        "name": "ZF"
+      }
+    ]
+  },
+  {
+    "_id": "5894b5d2c4bfb6f4b0c8fc1c",
+    "className": "ru.autodealer.migration.main.entity.Type",
+    "index": 7,
+    "name": "Спецтехника (иномарки)",
+    "value": "SPECIAL_TECH_FOREIGN",
+    "image": "https://storage.yandexcloud.net/acat/main/types/11.png",
+    "marks": [
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/293.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "AMITY",
+        "name": "Amity"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/133.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "BALKANCAR",
+        "name": "Balkancar"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/315.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CARMIX",
+        "name": "Carmix"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/195.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CASE",
+        "name": "Case"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/326.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CHTC_JOVE",
+        "name": "CHTC JOVE"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/264.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CSM",
+        "name": "CSM"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/285.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CVS_FERRARI",
+        "name": "CVS FERRARI"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/200.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CHENGGONG",
+        "name": "ChengGong"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/273.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DELTA",
+        "name": "Delta"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/142.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DETVA",
+        "name": "Detva"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/294.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DIMEX",
+        "name": "Dimex"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/192.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DOOSAN",
+        "name": "Doosan"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/316.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "DYNAPAC",
+        "name": "Dynapac"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/317.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "FENDT",
+        "name": "Fendt"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/139.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "FORTSCHRITT",
+        "name": "Fortschritt"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/98.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "FOTON",
+        "name": "Foton"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/286.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "FRESIA",
+        "name": "FRESIA"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/196.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "HANWOO",
+        "name": "Hanwoo"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/202.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "HBXG",
+        "name": "HBXG"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/236.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "HIDROMEK",
+        "name": "Hidromek"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/296.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "HITACHI",
+        "name": "Hitachi"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/239.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "HONEY_BEE",
+        "name": "Honey Bee"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/209.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "JCB",
+        "name": "JCB"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/314.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KALMAR",
+        "name": "Kalmar"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/189.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KOMAT'SU",
+        "name": "Komat'su"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/321.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "KRONE",
+        "name": "Krone"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/295.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "LEMKEN",
+        "name": "Lemken"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/244.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "LIUGONG",
+        "name": "LiuGong"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/199.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "LOCUST",
+        "name": "Locust"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/297.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "LONKING",
+        "name": "Lonking"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/254.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MACDON",
+        "name": "MacDon"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/318.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MASSEY_FERGUSON",
+        "name": "Massey Ferguson"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/173.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MECANICA_CEAHLAU",
+        "name": "Mecanica Ceahlau"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/19.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "mercedes",
+        "name": "Mercedes Benz"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/249.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "METAL-FACH",
+        "name": "Metal-Fach"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/234.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MITSUBER",
+        "name": "Mitsuber"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/187.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "NEW_HOLLAND",
+        "name": "New Holland"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/298.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "PENGPU",
+        "name": "Pengpu"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/287.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SCHOPF",
+        "name": "SCHOPF"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/247.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SDLG",
+        "name": "SDLG"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/204.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SHANTUI",
+        "name": "Shantui"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/235.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TEREX",
+        "name": "Terex"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/225.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "THERMO_KING",
+        "name": "Thermo King"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/186.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TIGARBO",
+        "name": "Tigarbo"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/213.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "TRACOM",
+        "name": "Tracom"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/240.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "VERSATILE",
+        "name": "Versatile"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/34.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "VOLVO",
+        "name": "Volvo"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/188.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "XCMG",
+        "name": "XCMG"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/327.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "XGMA",
+        "name": "XGMA"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/182.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "XIAMEN",
+        "name": "Xiamen"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/322.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZOOMLION",
+        "name": "Zoomlion"
+      }
+    ]
+  },
+  {
+    "_id": "5894b5d2c4bfb6f4b0c8fc1a",
+    "className": "ru.autodealer.migration.main.entity.Type",
+    "index": 8,
+    "name": "Двигатели",
+    "value": "ENGINE",
+    "image": "https://storage.yandexcloud.net/acat/main/types/8.png",
+    "marks": [
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/133.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "BALKANCAR_ENGINE",
+        "name": "Balkancar"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/180.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "BEARFORD_ENGINE",
+        "name": "Bearford"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/99.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "CATERPILLAR_ENGINE",
+        "name": "Caterpillar"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/190.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "CUMMINS_ENGINE",
+        "name": "Cummins"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/181.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "DEUTZ_ENGINE",
+        "name": "Deutz"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/96.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "DONGFENG_ENGINE",
+        "name": "DongFeng"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/290.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "GREAT_WALL_ENGINE",
+        "name": "Great Wall"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/291.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "HSW_ENGINE",
+        "name": "HSW"
+      },
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/12.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "isuzu",
+        "name": "Isuzu"
+      },
+      {
+        "name": "IVECO",
+        "value": "iveco",
+        "SKD": false,
+        "archival": false,
+        "engine": true,
+        "noindex": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/13.png",
+        "vin": true
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/189.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "KOMAT'SU_ENGINE",
+        "name": "Komat'su"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/21.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "NISSAN_ENGINE",
+        "name": "Nissan"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/89.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "SCANIA_ENGINE",
+        "name": "Scania"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/269.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "SDEC_ENGINE",
+        "name": "SDEC"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/292.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "VALMET_ENGINE",
+        "name": "Valmet"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/212.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "YANMAR_ENGINE",
+        "name": "Yanmar"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/206.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "YUCHAI_ENGINE",
+        "name": "Yuchai"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/288.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "WEICHAI_ENGINE",
+        "name": "Weichai"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/193.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "ZETOR_ENGINE",
+        "name": "Zetor"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/116.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "AMZ_ENGINE",
+        "name": "АМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/177.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "BARNAULTRANSMASH_ENGINE",
+        "name": "Барнаултрансмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/69.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "VTZ_ENGINE",
+        "name": "ВТЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/119.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "ZID_ENGINE",
+        "name": "ЗиД"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/51.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "ZMZ_ENGINE",
+        "name": "ЗМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/45.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "KAMAZ_ENGINE",
+        "name": "КамАЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/107.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "MMZ_ENGINE",
+        "name": "ММЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/208.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "PENZADIZELMASH_ENGINE",
+        "name": "Пензадизельмаш"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/115.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "SMD_ENGINE",
+        "name": "СМД"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/278.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "TDA_ENGINE",
+        "name": "ТДА"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/198.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "TEPLOSTAR_ENGINE",
+        "name": "Теплостар"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/216.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "TMZ_ENGINE",
+        "name": "ТМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/72.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "CHTZ_ENGINE",
+        "name": "ЧТЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/214.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "EHLTRA_ENGINE",
+        "name": "Элтра"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/74.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "YUMZ_ENGINE",
+        "name": "ЮМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/52.png",
+        "engine": true,
+        "archival": false,
+        "SKD": false,
+        "value": "YAMZ_ENGINE",
+        "name": "ЯМЗ"
+      }
+    ]
+  },
+  {
+    "_id": "5894b5d2c4bfb6f4b0c8fc1b",
+    "className": "ru.autodealer.migration.main.entity.Type",
+    "index": 9,
+    "name": "Мототехника",
+    "value": "MOTORCYCLE",
+    "image": "https://storage.yandexcloud.net/acat/main/types/4.png",
+    "marks": [
+      {
+        "vin": true,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/3.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "bmw-moto",
+        "name": "BMW"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/168.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "CF_MOTO",
+        "name": "CF Moto"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/201.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "EAGLE-WING",
+        "name": "Eagle-Wing"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/147.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "JAWA",
+        "name": "Jawa"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/169.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "JIANSHE",
+        "name": "Jianshe"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/159.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SARKANA_ZVAIGZNE",
+        "name": "Sarkana zvaigzne"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/31.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SUZUKI",
+        "name": "Suzuki"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/175.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZONGSHEN",
+        "name": "Zongshen"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/303.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "VPMZ",
+        "name": "ВПМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/119.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "ZID",
+        "name": "ЗиД"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/38.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "IZH",
+        "name": "ИЖ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/153.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "IMZ",
+        "name": "ИМЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/302.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "MMVZ",
+        "name": "ММВЗ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/174.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "RUSSKAYA_MEKHANIKA",
+        "name": "Русская механика"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/280.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "SEK",
+        "name": "СЭК"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/172.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "UMPO",
+        "name": "УМПО"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/284.png",
+        "engine": false,
+        "archival": false,
+        "SKD": false,
+        "value": "YAVT",
+        "name": "ЯВТ"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/10.png",
+        "engine": false,
+        "archival": false,
+        "SKD": true,
+        "value": "HONDA_SKD",
+        "name": "Honda"
+      },
+      {
+        "vin": false,
+        "image": "https://storage.yandexcloud.net/acat/main/marks/31.png",
+        "engine": false,
+        "archival": false,
+        "SKD": true,
+        "value": "SUZUKI_SKD",
+        "name": "Suzuki"
+      }
+    ]
+  }
+]

@@ -1,0 +1,296 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Каталог",
+      "url": "/catalogs"
+    },
+    {
+      "name": "Легковые (отечественные)",
+      "url": "CARS_NATIVE"
+    },
+    {
+      "name": "ГАЗ",
+      "url": "GAZ"
+    }
+  ],
+  "mark": {
+    "type": "CARS_NATIVE",
+    "full_name": "ГАЗ",
+    "short_name": "GAZ",
+    "description": "Горьковский автомобильный завод (Российская Федерация, г.Нижний Новгород)",
+    "url": "http://www.gaz.ru/",
+    "SKD": false,
+    "archival": false,
+    "engine": false,
+    "image": "https://storage.yandexcloud.net/acat/main/marks/37.png"
+  },
+  "models": [
+    {
+      "short_name": 191,
+      "name": "14",
+      "name_with_mark": "ГАЗ 14",
+      "modification": "Чайка",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00191.jpg",
+      "relevance": "1978-01-01T00:00:00.000Z",
+      "index": 1763
+    },
+    {
+      "short_name": 172,
+      "name": "21",
+      "name_with_mark": "ГАЗ 21",
+      "modification": "М-21, М-21А, М-21В, М-21Д, М-21Е",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00172.jpg",
+      "relevance": "1958-01-01T00:00:00.000Z",
+      "index": 1764
+    },
+    {
+      "short_name": 19,
+      "name": "24",
+      "name_with_mark": "ГАЗ 24",
+      "modification": "24-01, 24-02, 24-03, 24-04, 24-07",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00019.jpg",
+      "relevance": "1998-01-01T00:00:00.000Z",
+      "index": 1765
+    },
+    {
+      "short_name": 20,
+      "name": "24-10",
+      "name_with_mark": "ГАЗ 24-10",
+      "modification": "24-10, 24-11, 24-12, 24-13",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00020.jpg",
+      "relevance": "1994-01-01T00:00:00.000Z",
+      "index": 1766
+    },
+    {
+      "short_name": 15569,
+      "name": "2217",
+      "name_with_mark": "ГАЗ 2217",
+      "modification": "2217-0000430, 22171-0005430",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15569.jpg",
+      "relevance": "2009-08-01T00:00:00.000Z",
+      "index": 1767
+    },
+    {
+      "short_name": 15570,
+      "name": "2752",
+      "name_with_mark": "ГАЗ 2752",
+      "modification": "2752-0000431, 2752-0000441",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15570.jpg",
+      "relevance": "2009-08-01T00:00:00.000Z",
+      "index": 1767
+    },
+    {
+      "short_name": 15568,
+      "name": "2217",
+      "name_with_mark": "ГАЗ 2217",
+      "modification": "2217 (Euro-3) (дополнение)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15568.jpg",
+      "relevance": "2008-08-01T00:00:00.000Z",
+      "index": 1768
+    },
+    {
+      "short_name": 15297,
+      "name": "2705",
+      "name_with_mark": "ГАЗ 2705",
+      "modification": "с двигателями ЗМЗ-402, 406",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15297.jpg",
+      "relevance": "2004-01-01T00:00:00.000Z",
+      "index": 1771
+    },
+    {
+      "short_name": 15567,
+      "name": "2705",
+      "name_with_mark": "ГАЗ 2705",
+      "modification": "2705 (Euro-3) (дополнение)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15567.jpg",
+      "relevance": "2008-08-01T00:00:00.000Z",
+      "index": 1772
+    },
+    {
+      "short_name": 15566,
+      "name": "2752",
+      "name_with_mark": "ГАЗ 2752",
+      "modification": "2752 (Euro-3) (дополнение)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15566.jpg",
+      "relevance": "2008-08-01T00:00:00.000Z",
+      "index": 1773
+    },
+    {
+      "short_name": 229,
+      "name": "3102",
+      "name_with_mark": "ГАЗ 3102",
+      "modification": "ГАЗ-3102 с двигателем ЗМЗ-4062.10; ГАЗ-3102 с двигателем ЗМЗ-402.10, ЗМЗ-4021.10",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00229.jpg",
+      "relevance": "1999-10-01T00:00:00.000Z",
+      "index": 1775
+    },
+    {
+      "short_name": 15698,
+      "name": "3102",
+      "name_with_mark": "ГАЗ 3102",
+      "modification": "310221 с двигателем Крайслер (Euro-3) (дополнение)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15698.jpg",
+      "relevance": "2009-01-01T00:00:00.000Z",
+      "index": 1776
+    },
+    {
+      "short_name": 15697,
+      "name": "31105",
+      "name_with_mark": "ГАЗ 31105",
+      "modification": "31105 с двигателем Крайслер (Euro-3) (дополнение)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15697.jpg",
+      "relevance": "2009-01-01T00:00:00.000Z",
+      "index": 1776
+    },
+    {
+      "short_name": 22,
+      "name": "31029",
+      "name_with_mark": "ГАЗ 31029",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00022.jpg",
+      "relevance": "1995-01-01T00:00:00.000Z",
+      "index": 1777
+    },
+    {
+      "short_name": 23,
+      "name": "3110",
+      "name_with_mark": "ГАЗ 3110",
+      "modification": "3110-101, 3110-111, 3110-311, 3110-331, 3110-341, 3110-411, 3110-441",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00023.jpg",
+      "relevance": "1997-10-01T00:00:00.000Z",
+      "index": 1778
+    },
+    {
+      "short_name": 15233,
+      "name": "31105",
+      "name_with_mark": "ГАЗ 31105",
+      "modification": "ГАЗ-31105 с двигателями ЗМЗ-402, 4062",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15233.jpg",
+      "relevance": "2005-02-19T00:00:00.000Z",
+      "index": 1779
+    },
+    {
+      "short_name": 15298,
+      "name": "3221",
+      "name_with_mark": "ГАЗ 3221",
+      "modification": "3221, 32213 с двигателями ЗМЗ-402, 406",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15298.jpg",
+      "relevance": "2004-01-01T00:00:00.000Z",
+      "index": 1780
+    },
+    {
+      "short_name": 15565,
+      "name": "3221",
+      "name_with_mark": "ГАЗ 3221",
+      "modification": "3221 (Euro-3) (дополнение)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15565.jpg",
+      "relevance": "2008-08-01T00:00:00.000Z",
+      "index": 1781
+    },
+    {
+      "short_name": 15576,
+      "name": "3302",
+      "name_with_mark": "ГАЗ 3302",
+      "modification": "3302-404, 3302-408 (двигатель ЗМЗ), 3302-216 (двигатель УМЗ)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15576.jpg",
+      "relevance": "2008-09-01T00:00:00.000Z",
+      "index": 1783
+    },
+    {
+      "short_name": 15564,
+      "name": "3302",
+      "name_with_mark": "ГАЗ 3302",
+      "modification": "3302 (Euro-3) (дополнение)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15564.jpg",
+      "relevance": "2008-08-01T00:00:00.000Z",
+      "index": 1785
+    },
+    {
+      "short_name": 15695,
+      "name": "3302",
+      "name_with_mark": "ГАЗ 3302",
+      "modification": "3302-208 (двигатель УМЗ), 3302-288 (двигатель УМЗ)  Бизнес",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15695.jpg",
+      "relevance": "2010-01-01T00:00:00.000Z",
+      "index": 1786
+    },
+    {
+      "short_name": 15696,
+      "name": "33025",
+      "name_with_mark": "ГАЗ 33025",
+      "modification": "33025-228 (двигатель УМЗ) Бизнес (дополнение - газобаллонное оборудование)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15696.jpg",
+      "relevance": "2010-01-01T00:00:00.000Z",
+      "index": 1787
+    },
+    {
+      "short_name": 15579,
+      "name": "3302",
+      "name_with_mark": "ГАЗ 3302",
+      "modification": "Эконом (дополнение)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15579.jpg",
+      "relevance": "2009-08-01T00:00:00.000Z",
+      "index": 1793
+    },
+    {
+      "short_name": 234,
+      "name": "Рестайл",
+      "name_with_mark": "ГАЗ Рестайл",
+      "modification": "Дополнение к базовым каталогам для рестайлинговых автомобилей моделей",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00234.jpg",
+      "relevance": "2003-01-01T00:00:00.000Z",
+      "index": 1795
+    },
+    {
+      "short_name": 42,
+      "name": "330273",
+      "name_with_mark": "ГАЗ 330273",
+      "modification": "только оригинальные запчасти на полноприводную \"ГАЗель\"",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/00042.jpg",
+      "relevance": "2002-01-01T00:00:00.000Z",
+      "index": 1796
+    },
+    {
+      "short_name": 15581,
+      "name": "4x4",
+      "name_with_mark": "ГАЗ 4x4",
+      "modification": "тип 4x4 с двигателями ЗМЗ-4063, ЗМЗ-40522, ГАЗ-5602 (дополнение)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/15581.jpg",
+      "index": 1803
+    },
+    {
+      "short_name": 54352,
+      "name": "Maxus",
+      "name_with_mark": "ГАЗ Maxus",
+      "modification": "Maxus (двигатель VMR2516 Euro-3); (двигатель E4VMR2516 Euro-4)",
+      "archival": false,
+      "image": "https://storage.yandexcloud.net/acat/main/models/54352.jpg",
+      "index": 1817
+    }
+  ]
+}
