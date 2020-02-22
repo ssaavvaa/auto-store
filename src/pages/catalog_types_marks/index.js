@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import { uuid } from 'uuidv4';
 import { Link } from 'react-router-dom';
 import css from './index.module.scss';
@@ -29,15 +28,6 @@ const CatalogMarks = ({
       {!marks && <p>NO!!!</p>}
     </div>
   );
-};
-
-CatalogMarks.propTypes = {
-  match: PropTypes.shape({
-    params: PropTypes.shape({
-      type: PropTypes.string.isRequired,
-      mark: PropTypes.string.isRequired
-    })
-  })
 };
 
 export default CatalogMarks;

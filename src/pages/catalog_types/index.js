@@ -1,13 +1,14 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import { uuid } from 'uuidv4';
 import { Link } from 'react-router-dom';
 import css from './index.module.scss';
 import catalog from '../../data/catalogs/index.json';
 
-const Catalog = ({ match }) => {
-  const { type } = match.params;
-
+const Catalog = ({
+  match: {
+    params: { type }
+  }
+}) => {
   const cars = catalog.find(({ value }) => value.toLowerCase() === type);
 
   return (
@@ -28,14 +29,6 @@ const Catalog = ({ match }) => {
       {!cars && <p>NO!!!</p>}
     </div>
   );
-};
-
-Catalog.propTypes = {
-  match: PropTypes.shape({
-    params: PropTypes.shape({
-      type: PropTypes.string.isRequired
-    })
-  })
 };
 
 export default Catalog;

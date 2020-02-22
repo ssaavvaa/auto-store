@@ -16,16 +16,8 @@ export default () => {
       <Switch>
         <Route exact path="/" component={MainPage} />
         <Route exact path="/catalog" component={CatalogAllTypes} />
-        <Route
-          exact
-          path="/catalog/:type"
-          render={props => <CatalogTypes {...props} />}
-        />
-        <Route
-          exact
-          path="/catalog/:type/:mark"
-          render={props => <CatalogTypeMarks {...props} />}
-        />
+        <Route exact path="/catalog/:type" component={CatalogTypes} />
+        <Route exact path="/catalog/:type/:mark" component={CatalogTypeMarks} />
         <Route component={NotFound} />
       </Switch>
       <Footer />
